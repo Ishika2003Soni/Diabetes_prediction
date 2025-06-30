@@ -1,0 +1,14 @@
+{
+  "Logistic\u202fRegression": {
+    "accuracy": 0.7142857142857143,
+    "roc_auc": 0.8229629629629629
+  },
+  "Random\u202fForest": {
+    "accuracy": 0.7597402597402597,
+    "roc_auc": 0.8125
+  },
+  "Gradient\u202fBoosting": {
+    "accuracy": 0.7532467532467533,
+    "roc_auc": 0.842037037037037
+  }
+}
